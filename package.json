@@ -1,0 +1,13 @@
+{
+  "name": "mre-lean-qr-9",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "5.3.3"
+  },
+  "dependencies": {
+    "lean-qr": "^2.3.3"
+  }
+}
